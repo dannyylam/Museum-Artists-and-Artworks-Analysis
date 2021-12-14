@@ -1,8 +1,8 @@
-# Museum-Artists-and-Artworks-Analysis
+# Museum Artists and Artworks Analysis
 
 ### Analysis of data from Museum of Modern Art Collection
 By Danny Lam <br>
-December 9, 2021
+December 10, 2021
 
 ## Assessment
 
@@ -10,9 +10,7 @@ December 9, 2021
 2. Who are the top 10 artists by the number of artworks?
 3. Which artist created the most artwork by total surface area?
 4. Did any artists have artwork acquired during their lifetime?
-5. Data quality review 
-6. Issues I ran into
-7. What I learned
+5. Data quality review, issues I ran into, and what I learned.
 
 ## Data
 
